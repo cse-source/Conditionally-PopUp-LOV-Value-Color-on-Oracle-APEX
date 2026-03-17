@@ -115,4 +115,4 @@ WHERE S.GENERIC_ITEM_ID = I.ID
 
 ## 📦 Resources
 
-- 📥 [Download SQL Script](blob/main/Conditionally%20PopUp%20LOV%20Value%20Color.txt)
+- 📥 [Download SQL Script](Conditionally%20PopUp%20LOV%20Value%20Color.txt)
