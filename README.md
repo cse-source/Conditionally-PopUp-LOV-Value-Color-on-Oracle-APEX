@@ -108,7 +108,7 @@ WHERE S.GENERIC_ITEM_ID = I.ID
 - Customize txt.includes("Value") based on your own data
 - Use APEX utility classes like u-color-* for styling
 
-## Result
+## Development Output
 - Popup LOV values will be color-coded dynamically for better UX
 
-![Popup LOV Preview](preview.png)
+![Popup LOV Preview](Development%20Preview.png)
