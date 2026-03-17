@@ -112,3 +112,7 @@ WHERE S.GENERIC_ITEM_ID = I.ID
 - Popup LOV values will be color-coded dynamically for better UX
 
 ![Popup LOV Preview](Development%20Preview.png)
+
+## 📦 Resources
+
+- 📥 [Download SQL Script](files/Conditionally PopUp LOV Value Color.txt)
